@@ -1,6 +1,9 @@
 # ProjectAcousticsArchive
 
-An **Unofficial Archive** for [Project Acoustics](https://github.com/microsoft/ProjectAcoustics) and its processors.  
+An **Unofficial Archive** for [Project Acoustics](https://github.com/microsoft/ProjectAcoustics) and its processors.
+
+See Microsoft research project Triton: https://www.microsoft.com/en-us/research/project/project-triton/
+
 I'll try to keep it updated, but no promises.
 
 ---
